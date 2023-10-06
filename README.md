@@ -1,35 +1,35 @@
 # Mid_project
 
+## 1. Introduction:
 
-# summary of your project 
-include introduction to the topic
-what is the topic of your project?
-provide short introduction of what your topic is about?
+The topic of my project is hotel bookings. We will explore and clean the data set. Answer all the questions and predict whether a booking will be cancelled or not.
 
-# what are your questions that you want to answer as bullet points
+## 2. Project Questions:
 
-# what is the source of your data: website
+* Question 1: Are there specific months where bookings peak?
+* Question 2: How do booking trends vary between different types of hotels?
+* Question 3: How are cancellations and no-shows distributed in the dataset?
+* Question 4: Which countries do most of the guests come from?
+* Question 5: How does the average duration of stay vary between different types of hotels?
+* Question 6: How does the average daily rate (ADR) vary across different months? Are there specific periods where hotels can charge a premium due to high demand?
+* Question 7: How does the Monthly Cancellation Rate (MCR), vary between different types of hotels throughout the year?
+* ML Model: Predict whether a booking will be canceled or not.
+
+## 3. Source of the dataset: 
 
 https://www.kaggle.com/datasets/jessemostipak/hotel-booking-demand
 
-# findings
-explain briefly about what you find. what are the answer to your questions
-what were the main issue with yuour data set.. about data cleaning. this set was dirty
+## 4. Findings
 
-* 
-*
-*
+* The data set was pretty clean. 
+* Found an answer to all the questions
+* The model demonstrates an accuracy of 84.57% in predicting booking cancellations.
 
-# Conclusions
-Main take aways
-what have you seen in your project
-summarize the findings of your projects
+## 5. Conclusions
 
-# Next steps:
-I would like in the future do this or do that
+* Learned how to execute a project from beginning till completion.
+
+## 6. Next steps:
+Make better README files!
 
 
-
-
-README.md (add a description of the project,
- the questions to answer, the source of your data file, the questions answered and your findings)
